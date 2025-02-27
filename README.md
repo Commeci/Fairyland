@@ -3,7 +3,7 @@
 
 FairyLand는 생성형 AI를 활용하여 다양한 형태의 동화를 제공하는 웹 서비스입니다
 
-### 🔗 배포 링크
+### 🔗 관련 링크
 **[FairyLand 바로가기](https://fairyland-zeta.vercel.app/)**
 
 **[학술논문](https://drive.google.com/file/d/1BGaYJXxO6vT_8C1wPz3uhe-GGZfpY_BJ/view)**
