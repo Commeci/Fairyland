@@ -705,14 +705,14 @@ h3 {
   .home02 {
     background-color: transparent;
   }
+  .story-button {
+    flex-direction: column;
+  }
 }
 
 @media (max-width: 650px) {
   .story-grid {
     grid-template-columns: repeat(1, 1fr); /* 한 줄에 3개의 카드 */
-  }
-  .story-button {
-    flex-direction: column;
   }
   .mySwiper .slide-box {
     width: 90%; /* 부모 요소의 80%로 설정 */
